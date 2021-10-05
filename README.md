@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi i‘m baxiansheng 
+- 🇨🇳 I‘m studying at Ocean University of China.
+- 💻 I‘m front-end engineer.
+- 🌱 I’m currently learning deep learning and interesting in everything.
+- 📫 Reach out to me by email: 1569561258@qq.com
 
 <!--
 **baxiansheng/baxiansheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
