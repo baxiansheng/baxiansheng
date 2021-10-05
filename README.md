@@ -1,4 +1,4 @@
-### 😘Basic Information:
+### 😘 Basic Information:
 - 👋 Hi i‘m baxiansheng. 
 - 🇨🇳 I‘m studying at Ocean University of China.
 - 💻 I‘m front-end engineer.
