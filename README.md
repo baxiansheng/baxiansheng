@@ -1,4 +1,5 @@
 ### 😘 Basic Information:
+---
 - 👋 Hi i‘m baxiansheng. 
 - 🇨🇳 I‘m studying at Ocean University of China.
 - 💻 I‘m front-end engineer.
@@ -6,11 +7,13 @@
 - 📫 Reach out to me by email: 1569561258@qq.com.
 
 ### 🏆 GitHub Profile Trophy:
+---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=baxiansheng&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
 
 ### 📊 GitHub Stats:
+---
 ![baxiansheng github stats](https://github-readme-stats.vercel.app/api?username=baxiansheng&show_icons=true&count_private=true)
 
 ![baxiansheng Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baxiansheng)
